@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1051797897582",
+    "project_id": "freshordering-ac3f9",
+    "storage_bucket": "freshordering-ac3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051797897582:android:31b1da036f3fd45fef017f",
+        "android_client_info": {
+          "package_name": "com.freshordering.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051797897582-h45sa8hiuv351den4mlvbu0oppm7b5h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshordering.store",
+            "certificate_hash": "e49cc6cf906935db9b85175d22e73e2aa8f3d2cc"
+          }
+        },
+        {
+          "client_id": "1051797897582-le9egg01cukubpgs35bgkrjcvb90msb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlu30ZccNTdoC03zTHYNmjdv97whRzRXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051797897582-le9egg01cukubpgs35bgkrjcvb90msb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051797897582-q4bbek3p8ot918fepkgema3mv9s46302.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshordering.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051797897582:android:719ca5d12023210eef017f",
+        "android_client_info": {
+          "package_name": "com.freshordering.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051797897582-3vc677lib4v2pmohoiae01aqm3drcin8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshordering.userapp",
+            "certificate_hash": "e49cc6cf906935db9b85175d22e73e2aa8f3d2cc"
+          }
+        },
+        {
+          "client_id": "1051797897582-le9egg01cukubpgs35bgkrjcvb90msb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlu30ZccNTdoC03zTHYNmjdv97whRzRXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051797897582-le9egg01cukubpgs35bgkrjcvb90msb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051797897582-q4bbek3p8ot918fepkgema3mv9s46302.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshordering.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
